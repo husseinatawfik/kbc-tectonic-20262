@@ -1,0 +1,1 @@
+"""KBC Parallel hackathon prototype."""
